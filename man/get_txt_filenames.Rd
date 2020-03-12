@@ -4,8 +4,11 @@
 \alias{get_txt_filenames}
 \title{Get Kirby21.mricloud Text Filenames in a data.frame}
 \usage{
-get_txt_filenames(ids = get_ids(), visits = c(1, 2),
-  file_types = get_all_file_types())
+get_txt_filenames(
+  ids = get_ids(),
+  visits = c(1, 2),
+  file_types = get_all_file_types()
+)
 }
 \arguments{
 \item{ids}{ID to return}
@@ -15,6 +18,12 @@ get_txt_filenames(ids = get_ids(), visits = c(1, 2),
 \item{file_types}{Vector of file types to return 
 \code{c("cor", "DTI_MA", "volumes_MNI", "volumes_corrected", "z_cor", "tc")}}
 }
+\value{
+Data.frame of file names
+}
 \description{
 Return a data.frame of filenames for the correlation text files
+}
+\examples{
+get_txt_filenames()
 }

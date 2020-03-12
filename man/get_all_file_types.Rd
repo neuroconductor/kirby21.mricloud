@@ -13,3 +13,6 @@ Vector of character types
 Return the file types for the people scanned available in the 
 kirby21.mricloud package
 }
+\examples{
+get_all_file_types()
+}

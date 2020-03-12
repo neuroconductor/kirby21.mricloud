@@ -6,5 +6,5 @@ Description: A dataset containing correlation data for 20 subjects from Kennedy 
 Encoding: UTF-8
 License: GPL-2
 LazyData: true
-RoxygenNote: 6.0.1
+RoxygenNote: 7.1.0
 Suggests: testthat

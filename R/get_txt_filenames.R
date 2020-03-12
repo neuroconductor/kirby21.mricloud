@@ -5,7 +5,9 @@
 #' @param visits Vector of scan indices to return (1 or 2 or both)
 #' @param file_types Vector of file types to return 
 #' \code{c("cor", "DTI_MA", "volumes_MNI", "volumes_corrected", "z_cor", "tc")}
-#' @importFrom readr read_csv
+#' @return Data.frame of file names
+#' @examples 
+#' get_txt_filenames()
 #' @export
 get_txt_filenames = function(
   ids = get_ids(),

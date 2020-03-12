@@ -13,3 +13,6 @@ Vector of numeric ids
 Return the IDs for the people scanned available in the 
 kirby21.mricloud package
 }
+\examples{
+get_ids()
+}

@@ -3,7 +3,9 @@
 \name{Kirby 21 MRICloud Data}
 \alias{Kirby 21 MRICloud Data}
 \title{Kirby 21 MRICloud Data}
-\format{Subject directories in two visits containing text files with raw MRIcloud output}
+\format{
+Subject directories in two visits containing text files with raw MRIcloud output
+}
 \description{
 A dataset containing correlation data for 20 subjects
 from Kennedy Krieger. This data is the kirby 21 data set that can be found 
