@@ -7,4 +7,6 @@ Encoding: UTF-8
 License: GPL-2
 LazyData: true
 RoxygenNote: 7.1.0
-Suggests: testthat
+Suggests: 
+    testthat,
+    covr

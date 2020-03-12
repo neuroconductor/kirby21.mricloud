@@ -4,6 +4,8 @@
 #' kirby21.mricloud package
 #' @return Vector of character types
 #' 
+#' @examples 
+#' get_all_file_types()
 #' @export
 get_all_file_types = function(){
   file_types <- c("cor", "DTI_MA", "volumes_MNI", "volumes_corrected", "z_cor", "tc")
