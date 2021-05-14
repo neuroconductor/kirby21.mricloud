@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>/404.html</loc>
+  </url>
+  <url>
+    <loc>/authors.html</loc>
+  </url>
+  <url>
+    <loc>/index.html</loc>
+  </url>
+  <url>
+    <loc>/reference/Kirby-21-MRICloud-Data.html</loc>
+  </url>
+  <url>
+    <loc>/reference/get_all_file_types.html</loc>
+  </url>
+  <url>
+    <loc>/reference/get_ids.html</loc>
+  </url>
+  <url>
+    <loc>/reference/get_txt_filenames.html</loc>
+  </url>
+  <url>
+    <loc>/reference/index.html</loc>
+  </url>
+</urlset>
